@@ -1,0 +1,20 @@
+---
+title: ESS 330 Final Project
+authors: 
+  - name: Sara McLaughlin
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: true
+    
+  - name: Stephanie Farmer
+    affiliation: Colorado State University
+    roles: writing
+    
+  - name: Kiara Gleiser Gherson
+    affiliation: Colorado State University
+    roles: writing
+format: html
+execute:
+  echo: true
+---
+
