@@ -1,6 +1,6 @@
 ---
 title: ESS 330 Final Project
-authors: 
+authors:
   - name: Sara McLaughlin
     affiliation: Colorado State University
     roles: writing
@@ -13,8 +13,16 @@ authors:
   - name: Kiara Gleiser Gherson
     affiliation: Colorado State University
     roles: writing
-format: html
-execute:
-  echo: true
+    
+bibliography: references.bib
+csl: apa.csl
 ---
+# 1. Title:
+# The Effects of Sea Level Rise on Freshwater Quality Within the State of Florida from 2010 - 2024  
 
+# 2. Introduction:
+# Sea Level rise has had significant impacts on water quality. As the sea level increases, saltwater intrusion can contaminate freshwater aquifers which reduce the availability of clean drinking water [@werner2009]. The intrusion of saltwater also degrades wetlands, which act as a natural water filter and are habitats for diverse aquatic species. The decrease in wetlands diminishes their ability to buffer against storm surges and filter pollutants, further compromising the water quality [@dessu2018]. Also, rising sea levels lead to more frequent and severe coastal flooding which can result in an overflow of sewage systems and carry pollutants into waterways. This increase in contamination can endanger public health and harm aquatic ecosystems. Understanding and addressing the effects of sea level rise on water quality is significant for protecting freshwater resources, preserving ecosystems and ensuring the sustainability of coastal communities. Our hypothesis to address this research project is: If sea level rise has increased from 2010 to 2024 in the state of Florida, then the salinity levels in freshwater sources will also have increased, degrading overall freshwater quality. This will require two data sets: (1) sea level data from NOAA’s Tides and Current database and (2) freshwater quality (specifically, salinity) data from the USGS National Water Information System. From this data, we will construct a pearson correlation test to determine correlation, a linear regression model to determine the strength of the relationship, and a scatter plot to visualize the relationship.
+
+# 3. Data: 
+
+# 4. Methods: 
